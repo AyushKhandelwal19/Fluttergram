@@ -1,6 +1,6 @@
-# Instagram Clone
+# FlutterGram
 
-A completely Responsive Instagram App- Works on Android, iOS & Web! 
+A completely Responsive Social Media App- Works on Android, iOS & Web! 
 
 ## Features
 - Responsive Instagram UI
