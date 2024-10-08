@@ -1,4 +1,4 @@
-# FlutterGram
+# Talkz
 
 A completely Responsive Social Media App- Works on Android, iOS & Web! 
 
